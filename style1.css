@@ -1,0 +1,31 @@
+.Hello{
+    color: blue;
+    font-size: 45px;
+    background-color:white;
+}
+.change{
+    color: black;
+    font-size: 40px;
+  
+}
+.color{
+    color: black;
+    text-transform: uppercase;
+}
+p{
+    color:black;
+    text-transform: uppercase;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#applydeco{
+    text-decoration: underline;
+
+}
+*{
+    background-image: url();
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+*{
+    background-color:grey;
+}
